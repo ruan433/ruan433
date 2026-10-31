@@ -27,27 +27,19 @@ Atualmente, utilizo este espaço para compartilhar meus projetos, registrar minh
 **Linguagens de programação**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,c,js" />
 </p>
 
 **Desenvolvimento Web**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 **Ferramentas e plataformas**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,netlify" />
 </p>
 
 **Inteligência Artificial e automação**
@@ -103,8 +95,8 @@ Acredito que cada projeto representa uma oportunidade de aprendizado e evoluçã
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruan433&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan433&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruan433&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan433&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -112,12 +104,12 @@ Acredito que cada projeto representa uma oportunidade de aprendizado e evoluçã
 ## Contato
 
 <p align="center">
-  <a href="https://github.com/ruan433">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/ruan433" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ruan-felix-9a118842b/">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ruan-felix-9a118842b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" />
   </a>
 </p>
 
