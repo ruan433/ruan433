@@ -90,12 +90,13 @@ Acredito que cada projeto representa uma oportunidade de aprendizado e evoluçã
 
 ## Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ruan-felix-9a118842b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Meu%20Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
   <a href="https://github.com/ruan433" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Meu%20Perfil-24292e?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ruan-felix-9a118842b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" />
   </a>
 </p>
 
