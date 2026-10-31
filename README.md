@@ -1,112 +1,114 @@
-# 👨‍💻 Olá, eu sou o Ruan!
+# Ruan Felix
 
-### Desenvolvedor em formação | Ciência da Computação | Front-End • Back-End • QA
+### Estudante de Ciência da Computação | Desenvolvimento de Software
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Transformando+ideias+em+projetos.;Sempre+aprendendo+algo+novo.;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=600&lines=Desenvolvimento+de+Software;Transformando+ideias+em+solu%C3%A7%C3%B5es;Aprendizado+cont%C3%ADnuo+e+evolu%C3%A7%C3%A3o" alt="Apresentação" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou estudante de **Ciência da Computação na Universidade Cruzeiro do Sul**, atualmente no 2º semestre, e apaixonado por tecnologia, programação e desenvolvimento de soluções.
+Sou estudante de **Ciência da Computação na Universidade Cruzeiro do Sul**, atualmente no 2º semestre, e tenho grande interesse pelo universo da tecnologia e do desenvolvimento de software.
 
-Estou construindo minha jornada na área de tecnologia, explorando diferentes possibilidades e buscando evoluir constantemente como profissional.
+Busco aprimorar constantemente meus conhecimentos em programação, desenvolvimento web e criação de soluções tecnológicas.
 
-Tenho interesse especial em:
+Tenho interesse em compreender o desenvolvimento de aplicações de forma abrangente, desde a construção de interfaces até a implementação de funcionalidades e integração com bancos de dados.
 
-- 💻 Desenvolvimento Front-End e Back-End.
-- 🧪 Quality Assurance (QA) e testes de software.
-- 🎨 UI/UX Design e criação de interfaces.
-- 🧠 Lógica de programação e resolução de problemas.
-- 🌐 Desenvolvimento de aplicações e sistemas web.
-- 🤖 Inteligência Artificial e novas tecnologias.
+Acredito na importância do aprendizado contínuo, da organização, da resolução de problemas e da construção de projetos que transformem ideias em soluções funcionais.
 
-Acredito que cada projeto é uma oportunidade de aprender, experimentar e transformar conhecimento em algo real.
+Atualmente, utilizo este espaço para compartilhar meus projetos, registrar minha evolução e colocar em prática os conhecimentos adquiridos durante minha formação.
 
-## 🛠️ Tecnologias e ferramentas
+---
 
-### Linguagens de programação
+## Tecnologias e ferramentas
+
+**Linguagens de programação**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
+  <img src="https://skillicons.dev/icons?i=python,c,js" />
 </p>
 
-### Ferramentas e tecnologias
+**Desenvolvimento Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+**Ferramentas e plataformas**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,netlify" />
 </p>
 
-*Estou constantemente estudando e expandindo meus conhecimentos nessas tecnologias.*
+---
 
-## 📂 Projetos
+## Áreas de interesse
 
-Gosto de desenvolver projetos que envolvam criatividade, tecnologia e resolução de problemas.
+- Desenvolvimento de Software
+- Desenvolvimento Front-End
+- Desenvolvimento Back-End
+- Aplicações e sistemas web
+- Banco de dados
+- Design de interfaces e experiência do usuário (UI/UX)
+- Engenharia de Software
+- Resolução de problemas por meio da tecnologia
 
-Algumas áreas que exploro:
+---
 
-- 🌐 Aplicações e sites responsivos.
-- 🚗 Projetos de desenvolvimento web para empresas.
-- 🎮 Desenvolvimento de jogos e experiências interativas.
-- 🧪 Estudos de testes e qualidade de software.
-- 💡 Sistemas com foco em usabilidade e experiência do usuário.
+## Atualmente estudando
 
-Confira meus repositórios para acompanhar minha evolução e meus projetos.
+- Lógica de programação e algoritmos.
+- Programação em C e Python.
+- JavaScript e desenvolvimento web.
+- HTML5 e CSS3.
+- Banco de dados e linguagem SQL.
+- Fundamentos de Engenharia de Software.
+- Boas práticas de desenvolvimento.
 
-## 📚 Atualmente estudando
+---
 
-- Algoritmos e lógica de programação.
-- Linguagem C e Python.
-- HTML, CSS e JavaScript.
-- Banco de dados e SQL.
-- Engenharia de software.
-- Metodologias ágeis e Scrum.
-- Fundamentos de Quality Assurance.
+## Projetos
 
-## 🎯 Meus objetivos
+Este GitHub reúne projetos acadêmicos, experimentais e pessoais desenvolvidos durante minha trajetória na tecnologia.
 
-Meu objetivo é crescer profissionalmente na área de tecnologia, adquirir experiência prática, participar de projetos desafiadores e aprender com pessoas que compartilham a mesma paixão por inovação.
+Meu objetivo é transformar conhecimentos teóricos em aplicações práticas, explorar novas ferramentas e desenvolver soluções cada vez mais completas.
 
-Não acredito que seja necessário saber tudo para começar. Acredito na importância de começar, errar, corrigir e continuar evoluindo.
+Acredito que cada projeto representa uma oportunidade de aprendizado e evolução profissional.
 
-**Em constante aprendizado. Sempre construindo algo novo.**
+---
 
-## 📊 GitHub Stats
+## Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruan433&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan433&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
+## Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ruan-felix-9a118842b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Meu%20Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ruan433" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Meu%20Perfil-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Great things are built one line of code at a time."</i>
+  <sub>Aprendizado contínuo. Desenvolvimento constante. Evolução diária.</sub>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! 🚀
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="180" alt="Lucario Pokémon" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png" width="115" alt="Lucario" />
   <br/>
-  <strong>LUCA﻿RIO — Aura Pokémon</strong>
+  <strong>Lucario</strong>
   <br/>
-  <i>Focus, determination and evolution. Never stop growing.</i>
+  <sub>Foco • Disciplina • Evolução</sub>
 </p>
